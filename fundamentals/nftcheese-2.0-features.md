@@ -1,5 +1,14 @@
 # NFTCheese 2.0 Features
 
+**Outlines:**
+
+1. [Switch between rarity sources](nftcheese-2.0-features.md#1.-switch-between-rarity-sources)
+2. [Listing distribution, sorted by price or rank](nftcheese-2.0-features.md#2.-listing-distributes-sorted-by-price-or-rank)
+3. [Sales & Listing dot map](nftcheese-2.0-features.md#3.-sales-and-listing-dot-map)
+4. [View event history of a single NFT asset](nftcheese-2.0-features.md#4.-view-event-history-of-a-single-nft-asset)
+5. [Check the traits' rarity at your fingertip](nftcheese-2.0-features.md#5.-check-the-traits-rarity-at-your-fingertip)
+6. [Ranking Filter Presets](nftcheese-2.0-features.md#6.-ranking-filter-preset)
+
 ## 1. Switch between rarity sources
 
 ![](https://images.unsplash.com/photo-1527697911963-20cb424e9608?crop=entropy\&cs=srgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cGxhY2Vob2xkZXJ8ZW58MHx8fHwxNjUwMTEzMjI1\&ixlib=rb-1.2.1\&q=85)
@@ -14,7 +23,7 @@ Here are the prioritized sources:
 2. Raritymon
 3. Raritysniper
 
-## 2. Listing distributes, sorted by price or rank
+## 2. Listing distribution, sorted by price or rank
 
 ![](<../.gitbook/assets/CleanShot 2022-04-16 at 15.49.10.jpg>)
 
@@ -53,3 +62,15 @@ This popup is easily accessible in the sniping window and normal opensea item vi
 See rarity score and average price of each trait of an NFT.&#x20;
 
 This popup is easily accessible in the sniping window and normal opensea item view.
+
+## 6. Ranking Filter Presets
+
+Quickly navigate between different ranking range presets.
+
+Supported presets:
+
+1. Legend NFTs
+2. Epic NFTs
+3. Rare NFTs
+4. Common NFTs
+5. Entire collection
