@@ -34,7 +34,7 @@ With this chart, you avoid listing your NFT at a high price which no body will b
 
 See the activities of the NFT collection within your own ranking & trait filtering.
 
-## 3. View event history of a single NFT asset
+## 4. View event history of a single NFT asset
 
 ![](<../.gitbook/assets/Frame 4782.png>)
 
@@ -43,3 +43,13 @@ See the activities of the NFT collection within your own ranking & trait filteri
 You don't have to go else where to do homework for these questions any more.
 
 Just by clicking the NFT info button, the answers unfold in the event history chart.
+
+This popup is easily accessible in the sniping window and normal opensea item view.
+
+## 5. Check the traits' rarity at your fingertip
+
+![](<../.gitbook/assets/Frame 4783.png>)
+
+See rarity score and average price of each trait of an NFT.&#x20;
+
+This popup is easily accessible in the sniping window and normal opensea item view.
