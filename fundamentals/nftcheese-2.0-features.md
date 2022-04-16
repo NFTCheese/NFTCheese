@@ -7,7 +7,7 @@
 3. [Sales & Listing dot map](nftcheese-2.0-features.md#3.-sales-and-listing-dot-map)
 4. [View event history of a single NFT asset](nftcheese-2.0-features.md#4.-view-event-history-of-a-single-nft-asset)
 5. [Check the traits' rarity at your fingertip](nftcheese-2.0-features.md#5.-check-the-traits-rarity-at-your-fingertip)
-6. [Ranking Filter Presets](nftcheese-2.0-features.md#6.-ranking-filter-preset)
+6. [Ranking Filter Presets](nftcheese-2.0-features.md#6.-ranking-filter-presets)
 
 ## 1. Switch between rarity sources
 
