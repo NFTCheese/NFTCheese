@@ -1,4 +1,4 @@
-# What is MyProduct?
+# NFTCheese 2.0
 
 {% hint style="info" %}
 NFTCheese 2.0 will comes with features that enhance NFT traders experience on Opensea with abundance of trading & market insights, which in the end assist users on making the best decision on buying and flipping NFTs
@@ -30,8 +30,8 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/nftcheese-2.0-features.md" %}
+[nftcheese-2.0-features.md](guides/nftcheese-2.0-features.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}
