@@ -1,7 +1,7 @@
 # What is MyProduct?
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+NFTCheese 2.0 will comes with features that enhance NFT traders experience on Opensea with abundance of trading & market insights, which in the end assist users on making the best decision on buying and flipping NFTs
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
