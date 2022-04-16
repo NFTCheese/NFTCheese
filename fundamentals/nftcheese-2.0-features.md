@@ -3,7 +3,7 @@
 **Outlines:**
 
 1. [Switch between rarity sources](nftcheese-2.0-features.md#1.-switch-between-rarity-sources)
-2. [Listing distribution, sorted by price or rank](nftcheese-2.0-features.md#2.-listing-distributes-sorted-by-price-or-rank)
+2. [Listing distribution, sorted by price or rank](nftcheese-2.0-features.md#2.-listing-distribution-sorted-by-price-or-rank)
 3. [Sales & Listing dot map](nftcheese-2.0-features.md#3.-sales-and-listing-dot-map)
 4. [View event history of a single NFT asset](nftcheese-2.0-features.md#4.-view-event-history-of-a-single-nft-asset)
 5. [Check the traits' rarity at your fingertip](nftcheese-2.0-features.md#5.-check-the-traits-rarity-at-your-fingertip)
