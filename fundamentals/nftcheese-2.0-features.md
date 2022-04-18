@@ -55,9 +55,7 @@ This popup is easily accessible in the sniping window and normal opensea item vi
 
 ![](<../.gitbook/assets/Frame 4783.png>)
 
-See rarity score and average price of each trait of an NFT.&#x20;
-
-This popup is easily accessible in the sniping window and normal opensea item view.
+See the rarity score and the average price of each trait of the NFT. The popup is easily accessible in the sniping window and the regular Opensea item view.
 
 ## 6. Ranking Filter Presets
 
