@@ -11,7 +11,7 @@
 
 ## 1. Switch between rarity sources
 
-![](https://images.unsplash.com/photo-1527697911963-20cb424e9608?crop=entropy\&cs=srgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cGxhY2Vob2xkZXJ8ZW58MHx8fHwxNjUwMTEzMjI1\&ixlib=rb-1.2.1\&q=85)
+![](<../.gitbook/assets/Frame 4790.png>)
 
 Every softwares has little difference in the way they calculate the rarity ranking score.&#x20;
 
