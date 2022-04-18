@@ -9,13 +9,11 @@
 5. [Check the traits' rarity at your fingertip](nftcheese-2.0-features.md#5.-check-the-traits-rarity-at-your-fingertip)
 6. [Ranking Filter Presets](nftcheese-2.0-features.md#6.-ranking-filter-presets)
 
-## 1. Switch between rarity sources
+## 1. **Multiple rarity sources**
 
 ![](<../.gitbook/assets/Frame 4790.png>)
 
-Every softwares has little difference in the way they calculate the rarity ranking score.&#x20;
-
-You now can choose the ranking source to your preference other than the default NFTCheese's rarity ranking.
+Every software has slight differences in the way they calculate the rarity ranking score. You now can choose the ranking source to your preference other than the default NFTCheese's rarity ranking.
 
 Here are the prioritized sources:
 
@@ -25,13 +23,11 @@ Here are the prioritized sources:
 
 ## 2. Listing distribution, sorted by price or rank
 
+Ever wonder how the market list the NFTs? You can now stop guessing by looking at this chart that shows how many NFTs have been listed at each price group.
+
 ![](<../.gitbook/assets/CleanShot 2022-04-16 at 15.49.10.jpg>)
 
-Ever wonder how the market list the NFTs? Are you listing your NFT too cheap or too expensive?
-
-You can now stop guessing by looking at this chart.
-
-What about ranking? What are the prices at a certain ranking range?
+Have difficulties in pricing your rare NFT correctly? With this chart, you avoid listing your NFT at a high price that nobody will buy or missing the potential profit if listing at a low price.
 
 ![](<../.gitbook/assets/CleanShot 2022-04-16 at 15.55.55.jpg>)
 
@@ -41,7 +37,7 @@ With this chart, you avoid listing your NFT at a high price which no body will b
 
 ![](<../.gitbook/assets/CleanShot 2022-04-16 at 15.59.27.jpg>)
 
-See the activities of the NFT collection within your own ranking & trait filtering.
+Classic NFT market overview tool. The new spice we bring in is the option to filter by traits, ranking or price ranges.
 
 ## 4. View event history of a single NFT asset
 
