@@ -13,6 +13,13 @@
   * [Frontend developer](fundamentals/were-hiring/frontend-developer.md)
   * [Backend developer](fundamentals/were-hiring/backend-developer.md)
 
+## Community
+
+* [Community objective](community/community-objective.md)
+* [Admission](community/admission.md)
+* [Council](community/council.md)
+* [Treasury](community/treasury.md)
+
 ## Manifesto
 
 * [NFTCheese Vision](manifesto/nftcheese-vision.md)
