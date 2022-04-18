@@ -1,5 +1,9 @@
 # Launch Plan & Roadmap
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+{% content-ref url="launch-plan.md" %}
+[launch-plan.md](launch-plan.md)
+{% endcontent-ref %}
+
+{% content-ref url="roadmap.md" %}
+[roadmap.md](roadmap.md)
+{% endcontent-ref %}
