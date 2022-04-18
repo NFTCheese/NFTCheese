@@ -10,7 +10,7 @@ If the answer is "HELL YES", keep reading.
 
 
 
-NFTCheese is looking for an experienced backend end developer that can build servers that collect NFT analytics, information from the blockchain, along with various different sources.&#x20;
+NFTCheese is looking for an experienced backend developer that can build servers that collect NFT analytics, information from the blockchain, and various different sources.&#x20;
 
 ### So if you have
 
