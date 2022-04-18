@@ -12,7 +12,6 @@
 * [We're hiring](fundamentals/were-hiring/README.md)
   * [Frontend developer](fundamentals/were-hiring/frontend-developer.md)
   * [Backend developer](fundamentals/were-hiring/backend-developer.md)
-  * [Graphic designer](fundamentals/were-hiring/graphic-designer.md)
 
 ## Manifesto
 
