@@ -17,4 +17,8 @@ We are looking for experienced developers who's built web applications for real 
 1. Great skills & knowledge of the latest frontend technologies
 2. Great communication skill and love collaborating
 
-If this describes you, apply here: [https://tally.so/r/wbbGLw](https://tally.so/r/wbbGLw)
+We're passionate at what we do and we would love to share that with you. Once you join us, you're a part of us and together, we can build NFTCheese, not only the best sniping tool in the market, but a great community that share a passion for NFTs.
+
+If this excites you, apply here: [https://tally.so/r/wbbGLw](https://tally.so/r/wbbGLw)
+
+![](https://media.giphy.com/media/xT39D31A293lwjRVQY/giphy.gif)
