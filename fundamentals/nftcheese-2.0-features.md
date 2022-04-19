@@ -43,13 +43,11 @@ Classic NFT market overview tool. The new spice we bring in is the option to fil
 
 ![](<../.gitbook/assets/Frame 4782.png>)
 
-"Does this NFT get a lot of demand? Is the owner of this NFT a paper or diamond hand? Is the owner trying hard to get rid of this NFT?"
+"Does this NFT get a lot of attention? Has it been used as Profile Picture? Have the listing prices gone up or down? Are there multiple offers coming in for the NFT?"
 
-You don't have to go else where to do homework for these questions any more.
+Find all the answers regarding NFT event history by opening the chart through the NFT info button.
 
-Just by clicking the NFT info button, the answers unfold in the event history chart.
-
-This popup is easily accessible in the sniping window and normal opensea item view.
+This popup is easily accessible in the sniping window and normal Opensea item view.
 
 ## 5. Check the traits' rarity at your fingertip
 
