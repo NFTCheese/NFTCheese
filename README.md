@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # NFTCheese 1.0
 
 ## The best NFT trading extension to find underpriced NFTs.
