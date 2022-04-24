@@ -1,6 +1,7 @@
 # Table of contents
 
-* [NFTCheese 2.0](README.md)
+* [NFTCheese 1.0](README.md)
+* [NFTCheese 2.0 ✨ Coming soon](nftcheese-2.0-coming-soon.md)
 
 ## Fundamentals
 
