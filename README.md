@@ -10,7 +10,7 @@ Have the right data to make the right decision when buying NFTs on OpenSea.
 
 > [Install Chrome Extension Now](https://chrome.google.com/webstore/detail/nftcheese/nnmgbbkbhgbmmpmdafjlljcehldannic)
 
-
+{% embed url="https://www.youtube.com/watch?v=mVljbRh8-RA" %}
 
 ### Features:
 
